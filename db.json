@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "username": "pepper",
+            "name": "Dr. Pepper",
+            "password": "pepper",
+            "role": "doctor"
+        },
+        {
+            "username": "juanito",
+            "name": "Juanito",
+            "lastName": "Pérez",
+            "password": "juanito",
+            "role": "user",
+            "email": "jp@gmail.com",
+            "phone": "999999999"
+        },
+        {
+            "username": "admin",
+            "name": "admin",
+            "password": "admin",
+            "role": "admin"
+        }
+    ]
+}
